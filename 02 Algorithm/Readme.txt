@@ -1,0 +1,1 @@
+The way to use this code is to put the data into the "datasets" folder in the same directory as the algorithm, and then run the code, which should give you a "result" folder with all the models and evaluation metrics.
